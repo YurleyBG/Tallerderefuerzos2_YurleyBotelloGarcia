@@ -19,7 +19,7 @@ Gith Bash
 ~~~ 
 git clone  "link del repositorio" https://github.com/YurleyBG/Tallerderefuerzos2_YurleyBotelloGarcia.git
 ~~~
-al hacer esto se descargará  los datos del repositorio. puedes usar  la app de pseint para correr o ver cada uno de los ejercicios  que ese encuentram ahi.
+al hacer esto se descargará  los datos del repositorio. puedes usar  la app de pseint para ver cada uno de los ejercicios que se encuentrán ahí.
 
  ## Tecnología utilizadas
 
