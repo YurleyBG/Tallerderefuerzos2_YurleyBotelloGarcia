@@ -30,4 +30,4 @@ Recuerda tener instalado python en tu máquina local.
 
 
 ## Crédito 
-Este  proyecto filtro fue desarrollado por Yurley Botello y Luis Miguel Caicedo.
+Este  proyecto filtro fue desarrollado por Yurley Botello.
