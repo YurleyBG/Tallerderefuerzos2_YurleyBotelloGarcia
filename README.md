@@ -7,7 +7,7 @@ Cuenta  con varios ejercicios desarrollados en pseint
 | Índice | Título |
 |--|------|
 | 1 | Taller tienda de telefono| 
-| 2 | Ejercicio 1|
+| 2 | Ejercicio 1; tienda de celulares|
 
 
 ## Instalación
